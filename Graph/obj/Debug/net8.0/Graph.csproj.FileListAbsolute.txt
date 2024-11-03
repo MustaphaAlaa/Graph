@@ -1,0 +1,14 @@
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\bin\Debug\net8.0\Graph.exe
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\bin\Debug\net8.0\Graph.deps.json
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\bin\Debug\net8.0\Graph.runtimeconfig.json
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\bin\Debug\net8.0\Graph.dll
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\bin\Debug\net8.0\Graph.pdb
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\Graph.AssemblyInfoInputs.cache
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\Graph.AssemblyInfo.cs
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\Graph.csproj.CoreCompileInputs.cache
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\Graph.dll
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\refint\Graph.dll
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\Graph.pdb
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\Graph.genruntimeconfig.cache
+D:\COURSES\DR.Mostafa Saad\Comeback\Graph_WithSolid\Graph\Graph\obj\Debug\net8.0\ref\Graph.dll
